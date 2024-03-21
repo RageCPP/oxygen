@@ -13,3 +13,4 @@ bin/
 lib/
 include/
 build/
+.cache/
